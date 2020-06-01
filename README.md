@@ -1,6 +1,7 @@
 # work-scheduler
 challenge module 5
 
+https://delimr.github.io/work-scheduler
 https://github.com/delimr/work-scheduler
 
 GIVEN I am using a daily planner to create a schedule
